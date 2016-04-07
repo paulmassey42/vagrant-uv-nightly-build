@@ -1,3 +1,7 @@
-#+TITLE: vagrant-uv-nghtly-build
+#+TITLE: vagrant-uv-nightly-build
 
 Create a machine and install the latest uv packages on it.
+
+Use just for testing the build.
+
+
