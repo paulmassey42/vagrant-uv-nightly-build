@@ -1,0 +1,17 @@
+#+SETUPFILE: ~/SpiderOak/Org/org-html-themes/setup/theme-readtheorg.setup
+#+TITLE: UnifiedViews Nightly - Daily Test Environment
+#+OPTIONS: ^:nil
+#+AUTHOR: Paul Massey
+
+* Introduction
+
+The following tools are included in this development environment. It
+has the following main entry point - *[[http://localhost:28080/unifiedviews][UnifiedViews nightly build]]*.
+
+* Account Details
+** [[http://localhost:28080/unifiedviews][Unified Views Account Details]]
+  - Login account  : /admin/
+  - Login password : /test/
+
+* Footnotes
+
